@@ -12,7 +12,7 @@
 - 📚 Always eager to learn new technologies
 - ⚽ Sports enthusiast and IT mentor
 
-## 🛠️ Tech Stack
+## 🛠️ Language and other
 
 <div align="center">
   
@@ -20,8 +20,23 @@
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</div>
+
+## 🛠️ Tools
+
+<div align="center">
+  
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 
 </div>
 
