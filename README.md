@@ -90,6 +90,12 @@ Nền tảng web hiện đại với giao diện thân thiện
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kemuts1)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Doanthuat)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:doanvannhuthuat@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@dvntvlogs)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@yourusername](https://www.tiktok.com/@tieucongtu)
+[![Website](https://img.shields.io/badge/Website-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://yourwebsite.com](https://dvntplaygame.blogspot.com/)
+
+
+
 
 </div>
 
