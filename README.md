@@ -93,11 +93,8 @@ Nền tảng web hiện đại với giao diện thân thiện
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@dvntvlogs)
 [![Website](https://img.shields.io/badge/Website-0A66C2?style=flat-square&logo=googlechrome&logoColor=white)](https://dvntplaygame.blogspot.com)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@tieucongtu)
-
-
-
-
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/doan_thuatt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/doanvannhuthuat)
 
 </div>
 
