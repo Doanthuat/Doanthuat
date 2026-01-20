@@ -36,7 +36,7 @@
 <!-- Glowing Title -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=About+Me+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Creative+Problem+Solver+%F0%9F%92%A1" alt="About Me Typing"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=4000&pause=1000&color=F7931E&center=true&vCenter=true&width=500&lines=About+Me;Front+End+Developer;Creative+Problem+Solver" alt="About Me Typing"/>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
 </h2>
 
@@ -102,7 +102,7 @@ status: "Always learning, always growing "
 <!-- Animated Skills Section -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif? cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Tech+Stack+%26+Tools+%F0%9F%9B%A0%EF%B8%8F;My+Arsenal+%F0%9F%92%AA;Always+Expanding+%F0%9F%9A%80" alt="Tech Stack"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Tech+Stack+%26+Tools;My+Arsenal+;Always+Expanding" alt="Tech Stack"/>
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px">
 </h2>
 
@@ -195,9 +195,7 @@ status: "Always learning, always growing "
 
 ```text
 Frontend Development  ████████████████████░   95%
-Backend Development   ███████████████████░░   90%
 UI/UX Design         ████████████████████░   92%
-Database Management  ███████████████████░░   88%
 Tool Creation        ████████████████████░   96%
 Problem Solving      ████████████████████░   98%
 ```
@@ -239,17 +237,17 @@ Problem Solving      ███████████████████�
 <td width="50%" align="center">
   <h3>Tools viết bài SEO</h3>
   <a href="https://github.com/Doanthuat/toolsVietBaiSeo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/? username=Doanthuat&repo=toolsVietBaiSeo&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=7FFF00&icon_color=00FF00" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doanthuat&repo=toolsVietBaiSeo&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=7FFF00&icon_color=00FF00" />
   </a>
   <p><img src="https://img.shields.io/badge/SEO-Content%20Writer-green?style=flat-square&logo=google"/> <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/></p>
   <p>Công cụ viết <strong>content SEO</strong> hiệu quả</p>
 </td>
 <td width="50%" align="center">
-  <h3>Telegram Finance Bot</h3>
+  <h3> Telegram Finance Bot</h3>
   <a href="https://github.com/Doanthuat/telegram-finance-bot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doanthuat&repo=telegram-finance-bot&theme=dracula&hide_border=true&bg_color=0D1117&title_color=BD93F9&icon_color=FF79C6" />
   </a>
-  <p><img src="https://img.shields.io/badge/Bot-Telegram-blue?style=flat-square&logo=telegram"/> <img src="https://img.shields.io/badge/Status-Active-success? style=flat-square"/></p>
+  <p><img src="https://img.shields.io/badge/Bot-Telegram-blue?style=flat-square&logo=telegram"/> <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square"/></p>
   <p> Bot <strong>quản lý tài chính</strong> thông minh</p>
 </td>
 </tr>
@@ -263,7 +261,7 @@ Problem Solving      ███████████████████�
   <p> Nền tảng web <strong>hiện đại</strong></p>
 </td>
 <td width="50%" align="center">
-  <h3>🔧 More Projects</h3>
+  <h3> More Projects</h3>
   <a href="https://github.com/Doanthuat? tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Doanthuat&repo=Doanthuat&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB" />
   </a>
@@ -287,19 +285,17 @@ Problem Solving      ███████████████████�
 <!-- GitHub Stats with Animations -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=3000&pause=1000&color=FF1744&center=true&vCenter=true&width=500&lines=GitHub+Statistics+%F0%9F%93%8A;Coding+Activity+%F0%9F%94%A5;Let's+See+The+Numbers! +%F0%9F%93%88" alt="Stats"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=3000&pause=1000&color=FF1744&center=true&vCenter=true&width=500&lines=GitHub+Statistics;Coding+Activity;Let's+See+The+Numbers!" alt="Stats"/>
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40">
 </h2>
 
 <div align="center">
 
 <!-- Trophy Animation -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Doanthuat&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophy"/>
-
+![Stats](https://github-readme-stats.vercel.app/api?username=Doanthuat&show_icons=true&theme=radical)
 <br><br>
 
 <!-- Main Stats Cards -->
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api? username=Doanthuat&show_icons=true&count_private=true&hide_border=true&title_color=FF1744&icon_color=FF1744&text_color=c9d1d9&bg_color=0d1117&border_radius=15" alt="GitHub Stats" />
 
 <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=Doanthuat&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=FF1744&fire=FF1744&currStreakLabel=FF1744&border_radius=15" alt="Streak Stats" />
 
@@ -317,11 +313,11 @@ Problem Solving      ███████████████████�
 <summary><b>More Detailed Stats & Graphs</b></summary>
 <br>
 
-<img src="https://github-profile-summary-cards.vercel. app/api/cards/profile-details?username=Doanthuat&theme=radical&hide_border=true" width="100%" alt="Profile Summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Doanthuat&theme=radical&hide_border=true" width="100%" alt="Profile Summary"/>
 
 <br>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel. app/api/cards/repos-per-language?username=Doanthuat&theme=radical&hide_border=true" alt="Repos per Language"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Doanthuat&theme=radical&hide_border=true" alt="Repos per Language"/>
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Doanthuat&theme=radical&hide_border=true" alt="Most Commit Language"/>
 <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Doanthuat&theme=radical&hide_border=true" alt="Productive Time"/>
 
@@ -330,12 +326,10 @@ Problem Solving      ███████████████████�
 <br>
 
 <!-- Animated Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel. app/graph?username=Doanthuat&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&custom_title=📅%20Contribution%20Timeline" width="100%" alt="Contribution Timeline"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Doanthuat&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true&custom_title=%20Contribution%20Timeline" width="100%" alt="Contribution Timeline"/>
 
 <br>
 
-<!-- Metrics -->
-<img src="https://raw.githubusercontent.com/Doanthuat/Doanthuat/output/metrics.svg" width="100%" alt="Metrics">
 
 </div>
 
@@ -344,7 +338,7 @@ Problem Solving      ███████████████████�
 <!-- Goals & Vision with Animation -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="50">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Goals+%26+Vision+%F0%9F%8E%AF;My+Mission+%F0%9F%9A%80;Future+Plans+%F0%9F%8C%9F" alt="Vision"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Goals+%26+Vision;My+Mission;Future+Plans" alt="Vision"/>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="50">
 </h2>
 
@@ -435,12 +429,12 @@ Mobile           ████████░░░░░░░░  50%
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c. gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Connect Section with Animations -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Let's+Connect! +%F0%9F%A4%9D;Reach+Out+to+Me! +%F0%9F%93%A7;Let's+Collaborate! +%F0%9F%9A%80" alt="Connect"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Let's+Connect!;Reach+Out+to+Me!;Let's+Collaborate!" alt="Connect"/>
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50">
 </h2>
 
@@ -453,25 +447,21 @@ Mobile           ████████░░░░░░░░  50%
   <a href="https://www.facebook.com/kemuts1">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
-  <br>🔵 Facebook
 </td>
 <td align="center">
   <a href="https://github.com/Doanthuat">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <br>⚫ GitHub
 </td>
 <td align="center">
   <a href="mailto: doanvannhuthuat@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <br>📧 Email
 </td>
 <td align="center">
   <a href="https://youtube.com/@dvntvlogs">
-    <img src="https://img.shields.io/badge/YouTube-FF0000? style=for-the-badge&logo=youtube&logoColor=white"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
-  <br>🔴 YouTube
 </td>
 </tr>
 <tr>
@@ -479,25 +469,21 @@ Mobile           ████████░░░░░░░░  50%
   <a href="https://dvntplaygame.blogspot.com">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <br>🌐 Website
 </td>
 <td align="center">
   <a href="https://www.tiktok.com/@tieucongtu">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
-  <br>⚫ TikTok
 </td>
 <td align="center">
   <a href="https://www.instagram.com/doan_thuatt">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <br>📸 Instagram
 </td>
 <td align="center">
   <a href="https://www.linkedin.com/in/doanvannhuthuat">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <br>💼 LinkedIn
 </td>
 </tr>
 </table>
@@ -511,43 +497,43 @@ Mobile           ████████░░░░░░░░  50%
 
 <br>
 
-### 💬 **Want to collaborate?  Let's create something amazing! **
+### **Want to collaborate?  Let's create something amazing! **
 
 <br>
 
-<img src="https://forthebadge.com/images/badges/built-with-love. svg"/>
+<img src="https://forthebadge.com/images/badges/built-with-love.svg"/>
 <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
 <img src="https://forthebadge.com/images/badges/makes-people-smile.svg"/>
 
 <br>
 
 <!-- Animated Contact Text -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=%F0%9F%93%A7+Open+for+freelance+projects;%F0%9F%A4%9D+Always+happy+to+help! ;%F0%9F%92%AC+Feel+free+to+reach+out;%E2%AD%90+Let's+connect+and+grow+together!" alt="Contact Info"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Open+for+freelance+projects;+Always+happy+to+help!;Feel+free+to+reach+out;Let's+connect+and+grow+together!" alt="Contact Info"/>
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c. gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Footer with Wave Animation -->
 <div align="center">
 
 <br>
 
-### ⭐ **Show some ❤️ by starring my repositories!** ⭐
+###  **Show some by starring my repositories!** 
 
 <br>
 
 <!-- Animated Quote -->
-<img src="https://quotes-github-readme.vercel. app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 
 <br><br>
 
 <!-- Visitor Counter Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting! &fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=65"/>
 
 <br>
 
-**💙 Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
+**Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
 
 <br>
 
@@ -561,14 +547,11 @@ Mobile           ████████░░░░░░░░  50%
 <!-- Music Player Easter Egg -->
 <div align="center">
   
-### 🎵 **Currently Coding To:**
-
-[![spotify-github-profile](https://spotify-github-profile.vercel. app/api/view?uid=31l5zkx2d4lxbkx6k4j6lslylzwu&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31l5zkx2d4lxbkx6k4j6lslylzwu&redirect=true)
-
+###  **Currently Coding To:**
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=15&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Made+with+%E2%9D%A4%EF%B8%8F+by+%C4%90o%C3%A0n+Thu%E1%BA%ADt;%C2%A9+2026+All+Rights+Reserved;Last+Updated%3A+January+2026;Version+3.0+%7C+Super+Animated+Edition+%F0%9F%9A%80" alt="Footer"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=15&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Made+with+by+%C4%90o%C3%A0n+Thu%E1%BA%ADt;%C2%A9+2026+All+Rights+Reserved;Last+Updated%3A+January+2026;Version+3.0+%7C+Super+Animated+Edition+%F0%9F%9A%80" alt="Footer"/>
 </div>
