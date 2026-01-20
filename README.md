@@ -207,7 +207,7 @@ Problem Solving      ███████████████████�
 <!-- Projects Section with Animations -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Featured+Projects+%F0%9F%9A%80;My+Creations+%F0%9F%92%BB;Open+Source+%F0%9F%92%9A" alt="Projects"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=30&duration=3000&pause=1000&color=4CAF50&center=true&vCenter=true&width=500&lines=Featured+Projects;My+Creations;Open+Source" alt="Projects"/>
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50">
 </h2>
 
